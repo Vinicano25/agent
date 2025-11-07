@@ -1,0 +1,7 @@
+RESPOSTA RÁPIDA:
+
+SIM, a tabela Custos_Conta_EstoqueXSubcategoria É USADA no sistema.
+
+Ela está presente na estrutura do banco de dados (arquivo: knowledge/estrutura.json.txt).
+
+Para mais detalhes, consulte o arquivo VERIFICACAO_TABELA.md
